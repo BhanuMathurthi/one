@@ -826,8 +826,9 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2025</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
+            <h1>Hai Bujji Bangaram</h1>
+            <p>I love you so much maa</p>
+ <p>SDB❤</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
