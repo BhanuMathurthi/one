@@ -828,10 +828,10 @@
         <div class="hero-content">
             <h1>Hai Bujji Bangaram</h1>
             <p>I love you so much maa</p>
- <p>SDB❤</p>
+ <p>i love with SDB</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Shop Now</a>
-                <a href="#" class="btn btn-secondary">Explore Deals</a>
+                <a href="#" class="btn btn-primary">Sruthi</a>
+                <a href="#" class="btn btn-secondary">Dev</a>
             </div>
         </div>
     </section>
