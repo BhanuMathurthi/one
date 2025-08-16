@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Hai Bujji Bangaram</h1>
+            <h1>Hai My Bujji Bangaram</h1>
             <p>I love you so much maa</p>
  <p>in love with SDB</p>
             <div class="hero-buttons">
