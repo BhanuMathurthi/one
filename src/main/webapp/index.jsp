@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Hai My Bujji Bangaram</h1>
-            <p>I love you so much maa</p>
+            <p>I love you so much my cutest bujji bangaram</p>
  <p>in love with SDB</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Sruthi</a>
