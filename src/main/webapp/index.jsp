@@ -826,8 +826,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Hai maa, how are you? </h1>
-            <p>I love you so much my cutest bujji bangaram</p>
+            <h1>ecommerce template</h1>
+           
  <p>in love with SDB</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Sruthi</a>
