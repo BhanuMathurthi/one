@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>ecommerce template</h1>
+            <h1>ecommerce </h1>
            
  <p>in love with SDB</p>
             <div class="hero-buttons">
